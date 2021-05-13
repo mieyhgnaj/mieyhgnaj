@@ -4,9 +4,9 @@
 
 </div>
 
-[![mieyhgnaj's github stats](https://github-readme-stats.vercel.app/api?username=mieyhgnaj)](https://github.com/mieyhgnaj/github-readme-stats)
-
 <div align=right>
+
+[![mieyhgnaj's github stats](https://github-readme-stats.vercel.app/api?username=mieyhgnaj)](https://github.com/mieyhgnaj/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmieyhgnaj&count_bg=%238A8E88&title_bg=%23555555&icon=&icon_color=%23E15858&title=mieyhgnaj&edge_flat=false)](https://hits.seeyoufarm.com)
 
